@@ -1,6 +1,6 @@
 # Temperature Converter 🌡️
 ---
-[In c script]()
+[In c script](https://github.com/mdriyadkhan585/temperature-converter-C)
 
 ![Logo](logo.svg)
 
